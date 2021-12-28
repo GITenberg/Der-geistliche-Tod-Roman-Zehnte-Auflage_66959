@@ -1,11 +1,16 @@
 _repo: Der-geistliche-Tod-Roman-Zehnte-Auflage_66959
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66959-h/images/cover.jpg
 creator:
   author:
     agent_name: Marriot, Emil
     gutenberg_agent_id: '54051'
     url: http://www.gutenberg.org/2009/agents/54051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66959#Der-geistliche-Tod-Roman-Zehnte-Auflage
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66959'
